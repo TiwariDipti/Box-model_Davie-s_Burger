@@ -113,7 +113,7 @@ ul.nutrition li {
   list-style: none;
   width: 200px;
   padding: 10px 20px;
-  bottom-margin: 3px;
+  margin-bottom: 3px;
 }
 
 .nutrition .category {
